@@ -1,5 +1,11 @@
 # Nutcracker-Mechanism-Assembly
 
+<p align="center">
+  <img src="nutcracker_motion.gif" width="600"/>
+</p>
+
+---
+
 Description
 Parametric mechanical assembly demonstrating a crank-driven piston compression system.
 
